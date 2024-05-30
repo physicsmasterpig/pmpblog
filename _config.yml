@@ -3,13 +3,13 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-url:                   https://physicsmasterpig.github.io
+# url:                   https://username.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-baseurl:               '/pmpblog'
+# baseurl:               '/hydejack-starter-kit'
 
 
 # General settings
@@ -25,13 +25,13 @@ title:                 PMP
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  PMP blog explains math and physics. 
+  All on physics and mathematics
 
 # A shorter description for the sidebar.
-tagline:               Physics master pig
+tagline:               Physics Master Pig
 
 # A list of keywords for your blog
-keywords:              [Physics, Math]
+keywords:              [physics, math]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -46,6 +46,16 @@ author:
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
+# Add links to the sidebar.
+menu:
+  - title:             Physics
+    url:               /blog/physics/
+  - title:             Math
+    url:               /blog/math/
+  - title:             Projects
+    url:               /projects/
+  - title:             Résumé*
+    url:               /resume/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -58,7 +68,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021. All rights reserved.
+copyright:             © 2024. All rights reserved.
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
