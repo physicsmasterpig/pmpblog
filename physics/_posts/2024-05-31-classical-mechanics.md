@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hydejack, Stripe-ified
+title: Classical-mechanics
 image: /assets/img/blog/jj-ying.jpg
 accent_image: 
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
@@ -12,7 +12,7 @@ description: >
 invert_sidebar: true
 ---
 
-# What's New in Hydejack 9.1?
+# Classical Mechanics
 
 What's New in Hydejack 9.1?
 
