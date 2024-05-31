@@ -160,6 +160,10 @@ defaults:
     values:
       seo:
         type:          WebPage
+  - scope: 
+      type:            posts
+    Values:           
+      Comments:        true
 
 kramdown:
   math_engine:         mathjax
@@ -176,7 +180,7 @@ kramdown:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-# disqus:                <username>
+ disqus:                <physicsmasterpig>
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
