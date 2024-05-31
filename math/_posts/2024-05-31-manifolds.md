@@ -41,6 +41,24 @@ A **differentiable manifold** is a topological manifold equipped with an additio
 
 **Smooth Manifolds:** A **smooth manifold** is a differentiable manifold for which all transition maps are infinitely differentiable (smooth).
 
+$$
+\begin{aligned}
+  \phi(x,y) &= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
+            &= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
+            &= (x_1, \ldots, x_n)
+               \left(\begin{array}{ccc}
+                 \phi(e_1, e_1)  & \cdots & \phi(e_1, e_n) \\
+                 \vdots          & \ddots & \vdots         \\
+                 \phi(e_n, e_1)  & \cdots & \phi(e_n, e_n)
+               \end{array}\right)
+               \left(\begin{array}{c}
+                 y_1    \\
+                 \vdots \\
+                 y_n
+               \end{array}\right)
+\end{aligned}
+$$
+
 ## Examples of Manifolds
 1. **The Euclidean Space $$\mathbb{R}^n$$**: The simplest example of a manifold is the Euclidean space $$\mathbb{R}^n$$. It is trivially a manifold because it is already homeomorphic to itself. In this case, the entire space $$\mathbb{R}^n$$ is covered by a single chart.
 2. **The Circle $$S^1$$**: The circle $$S^1$$ can be defined as the set of points in $$\mathbb{R}^2$$ at a distance 1 from the origin:
