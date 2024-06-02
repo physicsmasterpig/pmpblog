@@ -33,6 +33,11 @@ A **topological manifold** of dimension $$n$$ is a topological space $$M$$ such 
 
 **Local Homeomorphism:** A **local homeomorphism** is a map $$f: X \to Y$$ between topological spaces such that every point in $$X$$ has an open neighborhood $$U$$ for which $$f(U)$$ is open in $$Y$$ and $$f_U: U \to f(U)$$ is a homeomorphism.
 
+![Full-width image](/assets/img/blog/Math/Figures/Black/Manifolds/chart.svg){:width="400" loading="lazy"}
+
+A caption for an image.
+{:.figcaption}
+
 ### Differentiable Manifolds
 A **differentiable manifold** is a topological manifold equipped with an additional structure that allows for differential calculus. Specifically, it is a manifold with a differentiable atlas.
 
