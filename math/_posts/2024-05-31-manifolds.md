@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Classical-mechanics
-image: /pmpblog/assets/img/blog/Math/Figures/Black/Manifolds/chart.png
+image: /pmpblog/assets/img/blog/Math/Figures/Black/Manifolds/chart.svg
 accent_image: 
-  background: url('/pmpblog/assets/img/blog/Math/Figures/Black/Manifolds/chart.png') center/cover
+  background: url('/pmpblog/assets/img/blog/Math/Figures/Black/Manifolds/chart.svg') center/cover
   overlay: false
 accent_color: '#ccc'
 theme_color: '#ccc'
