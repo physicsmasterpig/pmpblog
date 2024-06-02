@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Classical-mechanics
-image: /assets/img/blog/jj-ying.jpg
+image: /pmpblog/assets/img/blog/jj-ying.jpg
 accent_image: 
-  background: url('/assets/img/blog/jj-ying.jpg') center/cover
+  background: url('/pmpblog/assets/img/blog/jj-ying.jpg') center/cover
   overlay: false
 accent_color: '#ccc'
 theme_color: '#ccc'
@@ -29,7 +29,7 @@ A **topological manifold** of dimension $$n$$ is a topological space $$M$$ such 
 
 **Hausdorff Space:** A topological space $$X$$ is called **Hausdorff** if for any two distinct points $$x, y \in X$$, there exist disjoint open neighborhoods $$U$$ of $$x$$ and $$V$$ of $$y$$ such that $$U \cap V = \emptyset$$.
 
-**Second-Countable:** A topological space $$X$$ is **second-countable** if it has a countable base for its topology. This means there exists a countable collection of open sets $$\{U_i\}$$ such that any open set in $$X$$ can be written as a union of some of these sets.
+**Second-Countable:** A topological space $$X$$ is **second-countable** if it has a countable base for its topology. This means there exists a countable collection of open sets $$\left\lbrace U_i\right\rbrace$$ such that any open set in $$X$$ can be written as a union of some of these sets.
 
 **Local Homeomorphism:** A **local homeomorphism** is a map $$f: X \to Y$$ between topological spaces such that every point in $$X$$ has an open neighborhood $$U$$ for which $$f(U)$$ is open in $$Y$$ and $$f_U: U \to f(U)$$ is a homeomorphism.
 
@@ -42,34 +42,16 @@ A **differentiable manifold** is a topological manifold equipped with an additio
 
 **Smooth Manifolds:** A **smooth manifold** is a differentiable manifold for which all transition maps are infinitely differentiable (smooth).
 
-$$
-\begin{aligned}
-  \phi(x,y) &= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
-            &= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
-            &= (x_1, \ldots, x_n)
-               \left(\begin{array}{ccc}
-                 \phi(e_1, e_1)  & \cdots & \phi(e_1, e_n) \\
-                 \vdots          & \ddots & \vdots         \\
-                 \phi(e_n, e_1)  & \cdots & \phi(e_n, e_n)
-               \end{array}\right)
-               \left(\begin{array}{c}
-                 y_1    \\
-                 \vdots \\
-                 y_n
-               \end{array}\right)
-\end{aligned}
-$$
-
 ## Examples of Manifolds
 1. **The Euclidean Space $$\mathbb{R}^n$$**: The simplest example of a manifold is the Euclidean space $$\mathbb{R}^n$$. It is trivially a manifold because it is already homeomorphic to itself. In this case, the entire space $$\mathbb{R}^n$$ is covered by a single chart.
 2. **The Circle $$S^1$$**: The circle $$S^1$$ can be defined as the set of points in $$\mathbb{R}^2$$ at a distance 1 from the origin:
    \\[
-   S^1 = \{(x, y) \in \mathbb{R}^2 \mid x^2 + y^2 = 1\}
+   S^1 = \left\lbrace (x, y) \in \mathbb{R}^2 \mid x^2 + y^2 = 1\right\rbrace
    \\]
    We can cover $$S^1$$ with two charts: one mapping the upper semicircle to an interval and one mapping the lower semicircle to an interval.
 3. **The $$n$$-Sphere $$S^n$$**: The $$n$$-dimensional sphere $$S^n$$ is the set of points in $$\mathbb{R}^{n+1}$$ at a unit distance from the origin:
    \\[
-   S^n = \{(x_1, x_2, \ldots, x_{n+1}) \in \mathbb{R}^{n+1} \mid x_1^2 + x_2^2 + \cdots + x_{n+1}^2 = 1\}
+   S^n = \left\lbrace (x_1, x_2, \ldots, x_{n+1}) \in \mathbb{R}^{n+1} \mid x_1^2 + x_2^2 + \cdots + x_{n+1}^2 = 1\right\rbrace
    \\]
    For example, $$S^2$$ is the surface of a sphere in $$\mathbb{R}^3$$.
 4. **The Torus $$T^2$$**: The torus $$T^2$$ can be represented as the product of two circles: $$T^2 = S^1 \times S^1$$. Points on the torus can be described by pairs of angles $$(\theta_1, \theta_2)$$, each angle ranging from $$0$$ to $$2\pi$$.
@@ -113,16 +95,16 @@ One of the most important results involving differential forms is **Stokes' theo
 ### Charts
 A **chart** on a manifold $$M$$ is a pair $$(U, \varphi)$$, where $$U$$ is an open subset of $$M$$ and $$\varphi: U \to \mathbb{R}^n$$ is a homeomorphism onto an open subset of $$\mathbb{R}^n$$. Charts allow us to use the tools of calculus by providing a local coordinate system on $$M$$.
 
-**Example: Charts on $$S^2$$**: Consider the sphere $$S^2$$. We can use stereographic projection from the north pole to define a chart. Let $$N = (0,0,1)$$. The stereographic projection $$\varphi: S^2 \setminus \{N\} \to \mathbb{R}^2$$ is given by:
+**Example: Charts on $$S^2$$**: Consider the sphere $$S^2$$. We can use stereographic projection from the north pole to define a chart. Let $$N = (0,0,1)$$. The stereographic projection $$\varphi: S^2 \setminus \left\lbrace N\right\rbrace \to \mathbb{R}^2$$ is given by:
 \\[
 \varphi(x, y, z) = \left(\frac{x}{1-z}, \frac{y}{1-z}\right)
 \\]
 This maps points on the sphere, except the north pole, to $$\mathbb{R}^2$$.
 
 ### Atlases
-An **atlas** on a manifold $$M$$ is a collection of charts $$\{(U_\alpha, \varphi_\alpha)\}$$ such that $$\bigcup_\alpha U_\alpha = M$$. Atlases allow us to cover the entire manifold with charts, ensuring that every point has a neighborhood that looks like $$\mathbb{R}^n$$.
+An **atlas** on a manifold $$M$$ is a collection of charts $$\left\lbrace (U_\alpha, \varphi_\alpha)\right\rbrace$$ such that $$\bigcup_\alpha U_\alpha = M$$. Atlases allow us to cover the entire manifold with charts, ensuring that every point has a neighborhood that looks like $$\mathbb{R}^n$$.
 
-Two atlases $$\{(U_\alpha, \varphi_\alpha)\}$$ and $$\{(V_\beta, \psi_\beta)\}$$ on a manifold $$M$$ are said to be **compatible** if their union is also an atlas. This means that the transition maps $$\psi_\beta \circ \varphi_\alpha^{-1}$$ are smooth where defined.
+Two atlases $$\left\lbrace (U_\alpha, \varphi_\alpha)\right\rbrace$$ and $$\left\lbrace (V_\beta, \psi_\beta)\right\rbrace$$ on a manifold $$M$$ are said to be **compatible** if their union is also an atlas. This means that the transition maps $$\psi_\beta \circ \varphi_\alpha^{-1}$$ are smooth where defined.
 
 A **maximal atlas** is an atlas that contains all charts that are compatible with it. Every differentiable manifold has a unique maximal atlas, which includes all possible charts that can be used.
 
@@ -145,7 +127,7 @@ In a chart $$(U, \varphi)$$, the tangent space $$T_pM$$ can be represented by th
 ## Additional Examples of Manifolds
 1. **Hyperbolic Space:** The **hyperbolic space** $$\mathbb{H}^n$$ is a space with constant negative curvature. It can be modeled by the upper half-space in $$\mathbb{R}^n$$ with a specific metric.
 
-   **Poincaré Half-Plane Model:** In the Poincaré half-plane model, the hyperbolic space $$\mathbb{H}^2$$ is represented as $$\{(x, y) \in \mathbb{R}^2 \mid y > 0\}$$ with the metric
+   **Poincaré Half-Plane Model:** In the Poincaré half-plane model, the hyperbolic space $$\mathbb{H}^2$$ is represented as $$\left\lbrace (x, y) \in \mathbb{R}^2 \mid y > 0\right\rbrace$$ with the metric
    \\[
    ds^2 = \frac{dx^2 + dy^2}{y^2}
    \\]
