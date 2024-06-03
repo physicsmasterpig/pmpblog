@@ -3,7 +3,7 @@
    viewBox="0 0 750 500"
    version="1.1"
    id="svg116"
-   sodipodi:docname="자산 1.svg"
+   sodipodi:docname="math-bg.svg"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -19,9 +19,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.2786667"
-     inkscape:cx="375"
-     inkscape:cy="249.86966"
+     inkscape:zoom="0.63933335"
+     inkscape:cx="344.10844"
+     inkscape:cy="166.57977"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
      inkscape:window-x="-9"
@@ -977,709 +977,719 @@
       <g
          id="OBJECTS">
         <g
-           id="g121">
+           id="g2">
+          <rect
+             style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1"
+             id="rect2"
+             width="750"
+             height="500"
+             x="0"
+             y="0" />
           <g
-             id="g120">
+             id="g121">
             <g
-               class="cls-97"
-               clip-path="url(#clippath)"
-               id="g89">
-              <ellipse
-                 class="cls-19"
-                 cx="48.225182"
-                 cy="235"
-                 rx="185.66669"
-                 ry="206.05138"
-                 transform="rotate(-67.60609,48.225198,235.00001)"
-                 id="ellipse32"
-                 style="fill:url(#radialGradient116)" />
-              <ellipse
-                 class="cls-10"
-                 cx="253.31989"
-                 cy="434.84109"
-                 rx="162.78506"
-                 ry="210.41194"
-                 transform="rotate(-48.9471,253.31989,434.84109)"
-                 id="ellipse33"
-                 style="fill:url(#radial-gradient-2)" />
-              <ellipse
-                 class="cls-75"
-                 cx="287.81989"
-                 cy="495.34109"
-                 rx="162.78506"
-                 ry="210.41194"
-                 transform="rotate(-48.9471,287.81988,495.34109)"
-                 id="ellipse34"
-                 style="fill:url(#radial-gradient-3)" />
-              <ellipse
-                 class="cls-67"
-                 cx="40.917049"
-                 cy="413.85489"
-                 rx="135.48068"
-                 ry="95.14138"
-                 transform="rotate(-16.67204,40.917028,413.85487)"
-                 id="ellipse35"
-                 style="fill:url(#radial-gradient-4)" />
-              <ellipse
-                 class="cls-66"
-                 cx="145.1748"
-                 cy="363.6741"
-                 rx="81.371101"
-                 ry="100.55797"
-                 transform="rotate(-1.08916,145.1748,363.67405)"
-                 id="ellipse36"
-                 style="fill:url(#radial-gradient-5)" />
+               id="g120">
               <g
-                 id="g38">
-                <polygon
-                   class="cls-8"
-                   points="61.9717,227.0943 -103,280.1698 216,296.5849 "
-                   id="polygon36"
-                   style="fill:url(#linearGradient116)" />
-                <polygon
-                   class="cls-47"
-                   points="216,296.5849 61.9717,227.0943 105.4717,97.4151 "
-                   id="polygon37"
-                   style="fill:url(#linearGradient117)" />
-                <polygon
-                   class="cls-55"
-                   points="-103,280.1698 105.4717,97.4151 61.9717,227.0943 "
-                   id="polygon38"
-                   style="fill:url(#linear-gradient-3)" />
-              </g>
-              <ellipse
-                 class="cls-9"
-                 cx="417.8558"
-                 cy="381.35724"
-                 rx="164.57533"
-                 ry="148.29391"
-                 transform="rotate(-3.01647,417.85595,381.35729)"
-                 id="ellipse38"
-                 style="fill:url(#radial-gradient-6)" />
-              <g
-                 id="g41">
-                <polygon
-                   class="cls-84"
-                   points="429.71629,366.8888 291.67869,377.1164 536.24449,449.7576 "
-                   id="polygon39"
-                   style="fill:url(#linearGradient118)" />
-                <polygon
-                   class="cls-23"
-                   points="536.24449,449.7576 429.71629,366.8888 487.836,274.3833 "
-                   id="polygon40"
-                   style="fill:url(#linear-gradient-5)" />
-                <polygon
-                   class="cls-12"
-                   points="291.67869,377.1164 487.836,274.3833 429.71629,366.8888 "
-                   id="polygon41"
-                   style="fill:url(#linear-gradient-6)" />
-              </g>
-              <g
-                 id="g44">
-                <polygon
-                   class="cls-52"
-                   points="262.46489,408.5216 199.33329,308.3333 158.5483,541.7694 "
-                   id="polygon42"
-                   style="fill:url(#linear-gradient-7)" />
-                <polygon
-                   class="cls-68"
-                   points="158.5483,541.7694 262.46489,408.5216 378.19419,481.4304 "
-                   id="polygon43"
-                   style="fill:url(#linear-gradient-8)" />
-                <polygon
-                   class="cls-58"
-                   points="199.33329,308.3333 378.19419,481.4304 262.46489,408.5216 "
-                   id="polygon44"
-                   style="fill:url(#linear-gradient-9)" />
-              </g>
-              <ellipse
-                 class="cls-63"
-                 cx="490.89182"
-                 cy="394.8819"
-                 rx="69.608391"
-                 ry="118.55207"
-                 transform="rotate(-7.93323,490.89197,394.88197)"
-                 id="ellipse44"
-                 style="fill:url(#radialGradient118)" />
-              <ellipse
-                 class="cls-29"
-                 cx="549.15283"
-                 cy="464.14169"
-                 rx="118.55205"
-                 ry="69.608467"
-                 transform="rotate(-14.87043,549.15281,464.14165)"
-                 id="ellipse45"
-                 style="fill:url(#radial-gradient-8)" />
-              <g
-                 id="g49">
+                 class="cls-97"
+                 clip-path="url(#clippath)"
+                 id="g89">
                 <ellipse
-                   class="cls-81"
-                   cx="138.98586"
-                   cy="221.35828"
-                   rx="61.111"
-                   ry="67.820488"
-                   transform="rotate(-67.60629,138.98585,221.35828)"
-                   id="ellipse46"
-                   style="fill:url(#radialGradient119)" />
+                   class="cls-19"
+                   cx="48.225182"
+                   cy="235"
+                   rx="185.66669"
+                   ry="206.05138"
+                   transform="rotate(-67.60609,48.225198,235.00001)"
+                   id="ellipse32"
+                   style="fill:url(#radialGradient116)" />
+                <ellipse
+                   class="cls-10"
+                   cx="253.31989"
+                   cy="434.84109"
+                   rx="162.78506"
+                   ry="210.41194"
+                   transform="rotate(-48.9471,253.31989,434.84109)"
+                   id="ellipse33"
+                   style="fill:url(#radial-gradient-2)" />
+                <ellipse
+                   class="cls-75"
+                   cx="287.81989"
+                   cy="495.34109"
+                   rx="162.78506"
+                   ry="210.41194"
+                   transform="rotate(-48.9471,287.81988,495.34109)"
+                   id="ellipse34"
+                   style="fill:url(#radial-gradient-3)" />
+                <ellipse
+                   class="cls-67"
+                   cx="40.917049"
+                   cy="413.85489"
+                   rx="135.48068"
+                   ry="95.14138"
+                   transform="rotate(-16.67204,40.917028,413.85487)"
+                   id="ellipse35"
+                   style="fill:url(#radial-gradient-4)" />
+                <ellipse
+                   class="cls-66"
+                   cx="145.1748"
+                   cy="363.6741"
+                   rx="81.371101"
+                   ry="100.55797"
+                   transform="rotate(-1.08916,145.1748,363.67405)"
+                   id="ellipse36"
+                   style="fill:url(#radial-gradient-5)" />
                 <g
-                   id="g48">
+                   id="g38">
                   <polygon
-                     class="cls-82"
-                     points="189.45359,153.5603 154.6139,98.2705 132.1062,227.0943 "
-                     id="polygon46"
-                     style="fill:url(#linear-gradient-10)" />
+                     class="cls-8"
+                     points="61.9717,227.0943 -103,280.1698 216,296.5849 "
+                     id="polygon36"
+                     style="fill:url(#linearGradient116)" />
                   <polygon
-                     class="cls-21"
-                     points="132.1062,227.0943 189.45359,153.5603 253.31989,193.7957 "
-                     id="polygon47"
-                     style="fill:url(#linear-gradient-11)" />
+                     class="cls-47"
+                     points="216,296.5849 61.9717,227.0943 105.4717,97.4151 "
+                     id="polygon37"
+                     style="fill:url(#linearGradient117)" />
                   <polygon
-                     class="cls-4"
-                     points="154.6139,98.2705 253.31989,193.7957 189.45359,153.5603 "
-                     id="polygon48"
-                     style="fill:url(#linear-gradient-12)" />
+                     class="cls-55"
+                     points="-103,280.1698 105.4717,97.4151 61.9717,227.0943 "
+                     id="polygon38"
+                     style="fill:url(#linear-gradient-3)" />
                 </g>
-              </g>
-              <g
-                 id="g52">
                 <ellipse
-                   class="cls-17"
-                   cx="413.96155"
-                   cy="490.0376"
-                   rx="83.057877"
-                   ry="47.014679"
-                   transform="rotate(-58.23555,413.9616,490.03762)"
-                   id="ellipse49"
-                   style="fill:url(#radial-gradient-10)" />
-                <ellipse
-                   class="cls-26"
-                   cx="447.35092"
-                   cy="475.14545"
-                   rx="47.01461"
-                   ry="83.057907"
-                   transform="rotate(-36.40641,447.35089,475.14545)"
-                   id="ellipse50"
-                   style="fill:url(#radial-gradient-11)" />
+                   class="cls-9"
+                   cx="417.8558"
+                   cy="381.35724"
+                   rx="164.57533"
+                   ry="148.29391"
+                   transform="rotate(-3.01647,417.85595,381.35729)"
+                   id="ellipse38"
+                   style="fill:url(#radial-gradient-6)" />
                 <g
-                   id="g51">
+                   id="g41">
                   <polygon
-                     class="cls-31"
-                     points="447.35089,521.3545 499.81839,527.3147 429.94889,448.0421 "
-                     id="polygon50"
-                     style="fill:url(#linear-gradient-13)" />
+                     class="cls-84"
+                     points="429.71629,366.8888 291.67869,377.1164 536.24449,449.7576 "
+                     id="polygon39"
+                     style="fill:url(#linearGradient118)" />
                   <polygon
-                     class="cls-46"
-                     points="429.94889,448.0421 447.35089,521.3545 389.71369,541.3043 "
-                     id="polygon51"
-                     style="fill:url(#linear-gradient-14)" />
+                     class="cls-23"
+                     points="536.24449,449.7576 429.71629,366.8888 487.836,274.3833 "
+                     id="polygon40"
+                     style="fill:url(#linear-gradient-5)" />
+                  <polygon
+                     class="cls-12"
+                     points="291.67869,377.1164 487.836,274.3833 429.71629,366.8888 "
+                     id="polygon41"
+                     style="fill:url(#linear-gradient-6)" />
                 </g>
-              </g>
-              <g
-                 id="g55">
-                <ellipse
-                   class="cls-64"
-                   cx="50.602852"
-                   cy="174.11572"
-                   rx="101.6647"
-                   ry="91.607033"
-                   transform="rotate(-82.14675,50.602846,174.11572)"
-                   id="ellipse52"
-                   style="fill:url(#radial-gradient-12)" />
                 <g
-                   id="g54">
+                   id="g44">
                   <polygon
-                     class="cls-18"
-                     points="6.0975,99.033 -42.8778,106.9904 56.2463,191.0537 "
-                     id="polygon52"
-                     style="fill:url(#linear-gradient-15)" />
+                     class="cls-52"
+                     points="262.46489,408.5216 199.33329,308.3333 158.5483,541.7694 "
+                     id="polygon42"
+                     style="fill:url(#linear-gradient-7)" />
                   <polygon
-                     class="cls-37"
-                     points="56.2463,191.0537 6.0975,99.033 57.2036,3.4148 "
-                     id="polygon53"
-                     style="fill:url(#linear-gradient-16)" />
+                     class="cls-68"
+                     points="158.5483,541.7694 262.46489,408.5216 378.19419,481.4304 "
+                     id="polygon43"
+                     style="fill:url(#linear-gradient-8)" />
                   <polygon
-                     class="cls-5"
-                     points="-42.8778,106.9904 57.2036,3.4148 6.0975,99.033 "
-                     id="polygon54"
-                     style="fill:url(#linear-gradient-17)" />
+                     class="cls-58"
+                     points="199.33329,308.3333 378.19419,481.4304 262.46489,408.5216 "
+                     id="polygon44"
+                     style="fill:url(#linear-gradient-9)" />
                 </g>
-              </g>
-              <g
-                 id="g57">
-                <polygon
-                   class="cls-72"
-                   points="531.94189,426.5073 487.61089,506.8551 642.35468,435.5173 "
-                   id="polygon55"
-                   style="fill:url(#linear-gradient-18)" />
-                <polygon
-                   class="cls-6"
-                   points="642.35468,435.5173 531.94189,426.5073 477.04209,325.9054 "
-                   id="polygon56"
-                   style="fill:url(#linear-gradient-19)" />
-                <polygon
-                   class="cls-45"
-                   points="487.61089,506.8551 477.04209,325.9054 531.94189,426.5073 "
-                   id="polygon57"
-                   style="fill:url(#linear-gradient-20)" />
-              </g>
-              <g
-                 id="g59">
-                <polygon
-                   class="cls-11"
-                   points="-12.6548,389.7653 -56.4271,485.251 123.1939,394.5836 "
-                   id="polygon58"
-                   style="fill:url(#linear-gradient-21)" />
-                <polygon
-                   class="cls-38"
-                   points="123.1939,394.5836 -12.6548,389.7653 -41.3597,298.8535 "
-                   id="polygon59"
-                   style="fill:url(#linear-gradient-22)" />
-              </g>
-              <g
-                 id="g62">
-                <polygon
-                   class="cls-32"
-                   points="127.1586,363.4124 162.0804,408.1047 163.191,299.466 "
-                   id="polygon60"
-                   style="fill:url(#linear-gradient-23)" />
-                <polygon
-                   class="cls-70"
-                   points="163.191,299.466 127.1586,363.4124 76.4389,354.6098 "
-                   id="polygon61"
-                   style="fill:url(#linear-gradient-24)" />
-                <polygon
-                   class="cls-33"
-                   points="162.0804,408.1047 76.4389,354.6098 127.1586,363.4124 "
-                   id="polygon62"
-                   style="fill:url(#linear-gradient-25)" />
-              </g>
-              <g
-                 id="g66">
                 <ellipse
-                   class="cls-36"
-                   cx="715.48718"
-                   cy="221.35831"
-                   rx="135.48071"
-                   ry="78.750038"
-                   transform="rotate(-16.67199,715.48712,221.35828)"
-                   id="ellipse62"
-                   style="fill:url(#radial-gradient-13)" />
-                <g
-                   id="g65">
-                  <polygon
-                     class="cls-71"
-                     points="698.69568,207.7869 793.15928,195.1028 620.69618,156.6785 "
-                     id="polygon63"
-                     style="fill:url(#linear-gradient-26)" />
-                  <polygon
-                     class="cls-59"
-                     points="620.69618,156.6785 698.69568,207.7869 663.84658,274.7446 "
-                     id="polygon64"
-                     style="fill:url(#linear-gradient-27)" />
-                  <polygon
-                     class="cls-79"
-                     points="793.15928,195.1028 663.84658,274.7446 698.69568,207.7869 "
-                     id="polygon65"
-                     style="fill:url(#linear-gradient-28)" />
-                </g>
-              </g>
-              <ellipse
-                 class="cls-49"
-                 cx="728.26886"
-                 cy="437.50818"
-                 rx="108.01935"
-                 ry="185.83531"
-                 transform="rotate(-61.9425,728.26885,437.50817)"
-                 id="ellipse66"
-                 style="fill:url(#radial-gradient-14)" />
-              <g
-                 id="g68">
-                <polygon
-                   class="cls-77"
-                   points="737.55848,419.0611 612.35958,381.4155 806.06418,527.0813 "
-                   id="polygon66"
-                   style="fill:url(#linear-gradient-29)" />
-                <polygon
-                   class="cls-74"
-                   points="806.06418,527.0813 737.55848,419.0611 803.95878,317.3428 "
-                   id="polygon67"
-                   style="fill:url(#linear-gradient-30)" />
-                <polygon
-                   class="cls-25"
-                   points="612.35958,381.4155 803.95878,317.3428 737.55848,419.0611 "
-                   id="polygon68"
-                   style="fill:url(#linear-gradient-31)" />
-              </g>
-              <g
-                 id="g74">
+                   class="cls-63"
+                   cx="490.89182"
+                   cy="394.8819"
+                   rx="69.608391"
+                   ry="118.55207"
+                   transform="rotate(-7.93323,490.89197,394.88197)"
+                   id="ellipse44"
+                   style="fill:url(#radialGradient118)" />
                 <ellipse
-                   class="cls-86"
-                   cx="129.20212"
-                   cy="13.15173"
-                   rx="108.0193"
-                   ry="185.83534"
-                   transform="rotate(-30.7194,129.2021,13.151732)"
-                   id="ellipse68"
-                   style="fill:url(#radial-gradient-15)" />
+                   class="cls-29"
+                   cx="549.15283"
+                   cy="464.14169"
+                   rx="118.55205"
+                   ry="69.608467"
+                   transform="rotate(-14.87043,549.15281,464.14165)"
+                   id="ellipse45"
+                   style="fill:url(#radial-gradient-8)" />
                 <g
-                   id="g73">
+                   id="g49">
                   <ellipse
-                     class="cls-22"
-                     cx="176.5244"
-                     cy="2.88835"
-                     rx="185.83539"
-                     ry="108.01936"
-                     transform="rotate(-54.86389,176.52439,2.8883545)"
-                     id="ellipse69"
-                     style="fill:url(#radial-gradient-16)" />
-                  <ellipse
-                     class="cls-54"
-                     cx="172.5244"
-                     cy="9.5549898"
-                     rx="185.83536"
-                     ry="108.01933"
-                     transform="rotate(-54.86386,172.52438,9.5550009)"
-                     id="ellipse70"
-                     style="fill:url(#radial-gradient-17)" />
+                     class="cls-81"
+                     cx="138.98586"
+                     cy="221.35828"
+                     rx="61.111"
+                     ry="67.820488"
+                     transform="rotate(-67.60629,138.98585,221.35828)"
+                     id="ellipse46"
+                     style="fill:url(#radialGradient119)" />
                   <g
-                     id="g72">
+                     id="g48">
                     <polygon
-                       class="cls-44"
-                       points="137.3215,3.4148 49.7714,-93.6776 139.9099,131.3003 "
-                       id="polygon70"
-                       style="fill:url(#linear-gradient-32)" />
+                       class="cls-82"
+                       points="189.45359,153.5603 154.6139,98.2705 132.1062,227.0943 "
+                       id="polygon46"
+                       style="fill:url(#linear-gradient-10)" />
                     <polygon
-                       class="cls-7"
-                       points="139.9099,131.3003 137.3215,3.4148 246.83189,-49.1502 "
-                       id="polygon71"
-                       style="fill:url(#linear-gradient-33)" />
+                       class="cls-21"
+                       points="132.1062,227.0943 189.45359,153.5603 253.31989,193.7957 "
+                       id="polygon47"
+                       style="fill:url(#linear-gradient-11)" />
                     <polygon
-                       class="cls-27"
-                       points="49.7714,-93.6776 246.83189,-49.1502 137.3215,3.4148 "
-                       id="polygon72"
-                       style="fill:url(#linear-gradient-34)" />
+                       class="cls-4"
+                       points="154.6139,98.2705 253.31989,193.7957 189.45359,153.5603 "
+                       id="polygon48"
+                       style="fill:url(#linear-gradient-12)" />
                   </g>
                 </g>
-              </g>
-              <ellipse
-                 class="cls-83"
-                 cx="597.11432"
-                 cy="446.30811"
-                 rx="74.647697"
-                 ry="67.26281"
-                 transform="rotate(-30.00126,597.11423,446.30807)"
-                 id="ellipse74"
-                 style="fill:url(#radial-gradient-18)" />
-              <g
-                 id="g75">
-                <polygon
-                   class="cls-41"
-                   points="622.71828,537.9966 694.33018,544.7517 597.11428,438.6018 "
-                   id="polygon74"
-                   style="fill:url(#linear-gradient-35)" />
-                <polygon
-                   class="cls-61"
-                   points="597.11428,438.6018 622.71828,537.9966 544.73819,566.6635 "
-                   id="polygon75"
-                   style="fill:url(#linear-gradient-36)" />
-              </g>
-              <g
-                 id="g79">
+                <g
+                   id="g52">
+                  <ellipse
+                     class="cls-17"
+                     cx="413.96155"
+                     cy="490.0376"
+                     rx="83.057877"
+                     ry="47.014679"
+                     transform="rotate(-58.23555,413.9616,490.03762)"
+                     id="ellipse49"
+                     style="fill:url(#radial-gradient-10)" />
+                  <ellipse
+                     class="cls-26"
+                     cx="447.35092"
+                     cy="475.14545"
+                     rx="47.01461"
+                     ry="83.057907"
+                     transform="rotate(-36.40641,447.35089,475.14545)"
+                     id="ellipse50"
+                     style="fill:url(#radial-gradient-11)" />
+                  <g
+                     id="g51">
+                    <polygon
+                       class="cls-31"
+                       points="447.35089,521.3545 499.81839,527.3147 429.94889,448.0421 "
+                       id="polygon50"
+                       style="fill:url(#linear-gradient-13)" />
+                    <polygon
+                       class="cls-46"
+                       points="429.94889,448.0421 447.35089,521.3545 389.71369,541.3043 "
+                       id="polygon51"
+                       style="fill:url(#linear-gradient-14)" />
+                  </g>
+                </g>
+                <g
+                   id="g55">
+                  <ellipse
+                     class="cls-64"
+                     cx="50.602852"
+                     cy="174.11572"
+                     rx="101.6647"
+                     ry="91.607033"
+                     transform="rotate(-82.14675,50.602846,174.11572)"
+                     id="ellipse52"
+                     style="fill:url(#radial-gradient-12)" />
+                  <g
+                     id="g54">
+                    <polygon
+                       class="cls-18"
+                       points="6.0975,99.033 -42.8778,106.9904 56.2463,191.0537 "
+                       id="polygon52"
+                       style="fill:url(#linear-gradient-15)" />
+                    <polygon
+                       class="cls-37"
+                       points="56.2463,191.0537 6.0975,99.033 57.2036,3.4148 "
+                       id="polygon53"
+                       style="fill:url(#linear-gradient-16)" />
+                    <polygon
+                       class="cls-5"
+                       points="-42.8778,106.9904 57.2036,3.4148 6.0975,99.033 "
+                       id="polygon54"
+                       style="fill:url(#linear-gradient-17)" />
+                  </g>
+                </g>
+                <g
+                   id="g57">
+                  <polygon
+                     class="cls-72"
+                     points="531.94189,426.5073 487.61089,506.8551 642.35468,435.5173 "
+                     id="polygon55"
+                     style="fill:url(#linear-gradient-18)" />
+                  <polygon
+                     class="cls-6"
+                     points="642.35468,435.5173 531.94189,426.5073 477.04209,325.9054 "
+                     id="polygon56"
+                     style="fill:url(#linear-gradient-19)" />
+                  <polygon
+                     class="cls-45"
+                     points="487.61089,506.8551 477.04209,325.9054 531.94189,426.5073 "
+                     id="polygon57"
+                     style="fill:url(#linear-gradient-20)" />
+                </g>
+                <g
+                   id="g59">
+                  <polygon
+                     class="cls-11"
+                     points="-12.6548,389.7653 -56.4271,485.251 123.1939,394.5836 "
+                     id="polygon58"
+                     style="fill:url(#linear-gradient-21)" />
+                  <polygon
+                     class="cls-38"
+                     points="123.1939,394.5836 -12.6548,389.7653 -41.3597,298.8535 "
+                     id="polygon59"
+                     style="fill:url(#linear-gradient-22)" />
+                </g>
+                <g
+                   id="g62">
+                  <polygon
+                     class="cls-32"
+                     points="127.1586,363.4124 162.0804,408.1047 163.191,299.466 "
+                     id="polygon60"
+                     style="fill:url(#linear-gradient-23)" />
+                  <polygon
+                     class="cls-70"
+                     points="163.191,299.466 127.1586,363.4124 76.4389,354.6098 "
+                     id="polygon61"
+                     style="fill:url(#linear-gradient-24)" />
+                  <polygon
+                     class="cls-33"
+                     points="162.0804,408.1047 76.4389,354.6098 127.1586,363.4124 "
+                     id="polygon62"
+                     style="fill:url(#linear-gradient-25)" />
+                </g>
+                <g
+                   id="g66">
+                  <ellipse
+                     class="cls-36"
+                     cx="715.48718"
+                     cy="221.35831"
+                     rx="135.48071"
+                     ry="78.750038"
+                     transform="rotate(-16.67199,715.48712,221.35828)"
+                     id="ellipse62"
+                     style="fill:url(#radial-gradient-13)" />
+                  <g
+                     id="g65">
+                    <polygon
+                       class="cls-71"
+                       points="698.69568,207.7869 793.15928,195.1028 620.69618,156.6785 "
+                       id="polygon63"
+                       style="fill:url(#linear-gradient-26)" />
+                    <polygon
+                       class="cls-59"
+                       points="620.69618,156.6785 698.69568,207.7869 663.84658,274.7446 "
+                       id="polygon64"
+                       style="fill:url(#linear-gradient-27)" />
+                    <polygon
+                       class="cls-79"
+                       points="793.15928,195.1028 663.84658,274.7446 698.69568,207.7869 "
+                       id="polygon65"
+                       style="fill:url(#linear-gradient-28)" />
+                  </g>
+                </g>
                 <ellipse
-                   class="cls-56"
+                   class="cls-49"
                    cx="728.26886"
-                   cy="373.44186"
-                   rx="90.463692"
-                   ry="81.514183"
-                   transform="rotate(-63.71942,728.26888,373.44185)"
-                   id="ellipse75"
-                   style="fill:url(#radial-gradient-19)" />
+                   cy="437.50818"
+                   rx="108.01935"
+                   ry="185.83531"
+                   transform="rotate(-61.9425,728.26885,437.50817)"
+                   id="ellipse66"
+                   style="fill:url(#radial-gradient-14)" />
                 <g
-                   id="g78">
+                   id="g68">
                   <polygon
-                     class="cls-87"
-                     points="711.816,297.5389 668.23278,290.4813 728.26888,389.3283 "
-                     id="polygon76"
-                     style="fill:url(#linear-gradient-37)" />
+                     class="cls-77"
+                     points="737.55848,419.0611 612.35958,381.4155 806.06418,527.0813 "
+                     id="polygon66"
+                     style="fill:url(#linear-gradient-29)" />
                   <polygon
-                     class="cls-3"
-                     points="728.26888,389.3283 711.816,297.5389 781.85438,231.1927 "
-                     id="polygon77"
-                     style="fill:url(#linear-gradient-38)" />
+                     class="cls-74"
+                     points="806.06418,527.0813 737.55848,419.0611 803.95878,317.3428 "
+                     id="polygon67"
+                     style="fill:url(#linear-gradient-30)" />
                   <polygon
-                     class="cls-53"
-                     points="668.23278,290.4813 781.85438,231.1927 711.816,297.5389 "
-                     id="polygon78"
-                     style="fill:url(#linear-gradient-39)" />
-                </g>
-              </g>
-              <g
-                 id="g82">
-                <ellipse
-                   class="cls-20"
-                   cx="554.14899"
-                   cy="401.0455"
-                   rx="67.114601"
-                   ry="60.474918"
-                   transform="rotate(-4.36384,554.1489,401.04546)"
-                   id="ellipse79"
-                   style="fill:url(#radial-gradient-20)" />
-                <g
-                   id="g81">
-                  <polygon
-                     class="cls-30"
-                     points="568.53729,318.6525 513.11859,285.3193 550.62559,409.1791 "
-                     id="polygon79"
-                     style="fill:url(#linear-gradient-40)" />
-                  <polygon
-                     class="cls-28"
-                     points="550.62559,409.1791 568.53729,318.6525 642.89728,325.751 "
-                     id="polygon80"
-                     style="fill:url(#linear-gradient-41)" />
-                  <polygon
-                     class="cls-15"
-                     points="513.11859,285.3193 642.89728,325.751 568.53729,318.6525 "
-                     id="polygon81"
-                     style="fill:url(#linear-gradient-42)" />
-                </g>
-              </g>
-              <g
-                 id="g88">
-                <ellipse
-                   class="cls-43"
-                   cx="723.0415"
-                   cy="181.90527"
-                   rx="83.057899"
-                   ry="47.014721"
-                   transform="rotate(-25.80369,723.04141,181.90526)"
-                   id="ellipse82"
-                   style="fill:url(#radial-gradient-21)" />
-                <ellipse
-                   class="cls-16"
-                   cx="752.07544"
-                   cy="171.22705"
-                   rx="83.057961"
-                   ry="47.014641"
-                   transform="rotate(-25.80367,752.07535,171.22705)"
-                   id="ellipse83"
-                   style="fill:url(#radial-gradient-22)" />
-                <ellipse
-                   class="cls-85"
-                   cx="707.59436"
-                   cy="177.03481"
-                   rx="83.05793"
-                   ry="47.014671"
-                   transform="rotate(-81.60323,707.59438,177.0348)"
-                   id="ellipse84"
-                   style="fill:url(#radial-gradient-23)" />
-                <ellipse
-                   class="cls-57"
-                   cx="709.77368"
-                   cy="136.18269"
-                   rx="83.057922"
-                   ry="47.014671"
-                   transform="rotate(-89.6764,709.77368,136.18272)"
-                   id="ellipse85"
-                   style="fill:url(#radial-gradient-24)" />
-                <g
-                   id="g87">
-                  <polygon
-                     class="cls-35"
-                     points="737.65848,132.0276 704.63108,90.8263 698.34448,196.3079 "
-                     id="polygon85"
-                     style="fill:url(#linear-gradient-43)" />
-                  <polygon
-                     class="cls-76"
-                     points="698.34448,196.3079 737.65848,132.0276 792.61208,158.488 "
-                     id="polygon86"
-                     style="fill:url(#linear-gradient-44)" />
-                  <polygon
-                     class="cls-50"
-                     points="704.63108,90.8263 792.61208,158.488 737.65848,132.0276 "
-                     id="polygon87"
-                     style="fill:url(#linear-gradient-45)" />
-                </g>
-              </g>
-            </g>
-            <g
-               class="cls-94"
-               clip-path="url(#clippath-1)"
-               id="g106">
-              <g
-                 id="g105">
-                <ellipse
-                   class="cls-34"
-                   cx="504.25803"
-                   cy="90.126617"
-                   rx="140.60359"
-                   ry="156.04079"
-                   transform="rotate(-12.51956,504.25813,90.126624)"
-                   id="ellipse89"
-                   style="fill:url(#radial-gradient-25)" />
-                <ellipse
-                   class="cls-2"
-                   cx="456.92474"
-                   cy="14.12662"
-                   rx="140.60359"
-                   ry="156.04079"
-                   transform="rotate(-12.51939,456.9247,14.126604)"
-                   id="ellipse90"
-                   style="fill:url(#radial-gradient-26)" />
-                <ellipse
-                   class="cls-51"
-                   cx="531.59137"
-                   cy="45.126621"
-                   rx="140.60364"
-                   ry="156.04079"
-                   transform="rotate(-12.51961,531.59146,45.126636)"
-                   id="ellipse91"
-                   style="fill:url(#radial-gradient-27)" />
-                <g
-                   id="g93">
-                  <polygon
-                     class="cls-78"
-                     points="490.45889,48.8617 385.99639,-30.5801 514.06559,174.6311 "
-                     id="polygon91"
-                     style="fill:url(#linear-gradient-46)" />
-                  <polygon
-                     class="cls-69"
-                     points="514.06559,174.6311 490.45889,48.8617 589.84258,19.6685 "
-                     id="polygon92"
-                     style="fill:url(#linear-gradient-47)" />
-                  <polygon
-                     class="cls-62"
-                     points="385.99639,-30.5801 589.84258,19.6685 490.45889,48.8617 "
-                     id="polygon93"
-                     style="fill:url(#linear-gradient-48)" />
+                     class="cls-25"
+                     points="612.35958,381.4155 803.95878,317.3428 737.55848,419.0611 "
+                     id="polygon68"
+                     style="fill:url(#linear-gradient-31)" />
                 </g>
                 <g
-                   id="g97">
+                   id="g74">
                   <ellipse
-                     class="cls-14"
-                     cx="527.40082"
-                     cy="94.200752"
-                     rx="46.278728"
-                     ry="51.359772"
-                     transform="rotate(-12.51973,527.40059,94.200732)"
-                     id="ellipse93"
-                     style="fill:url(#radial-gradient-28)" />
+                     class="cls-86"
+                     cx="129.20212"
+                     cy="13.15173"
+                     rx="108.0193"
+                     ry="185.83534"
+                     transform="rotate(-30.7194,129.2021,13.151732)"
+                     id="ellipse68"
+                     style="fill:url(#radial-gradient-15)" />
                   <g
-                     id="g96">
-                    <polygon
-                       class="cls-65"
-                       points="591.37688,96.1554 610.611,50.5562 520.857,92.4147 "
-                       id="polygon94"
-                       style="fill:url(#linear-gradient-49)" />
-                    <polygon
-                       class="cls-42"
-                       points="520.857,92.4147 591.37688,96.1554 594.07228,153.2549 "
-                       id="polygon95"
-                       style="fill:url(#linear-gradient-50)" />
-                    <polygon
-                       class="cls-73"
-                       points="610.611,50.5562 594.07228,153.2549 591.37688,96.1554 "
-                       id="polygon96"
-                       style="fill:url(#linear-gradient-51)" />
-                  </g>
-                </g>
-                <g
-                   id="g99">
-                  <ellipse
-                     class="cls-88"
-                     cx="518.4306"
-                     cy="18.839451"
-                     rx="76.989754"
-                     ry="69.373077"
-                     transform="rotate(-27.05996,518.43058,18.839465)"
-                     id="ellipse97"
-                     style="fill:url(#radial-gradient-29)" />
-                  <g
-                     id="g98">
-                    <polygon
-                       class="cls-48"
-                       points="545.76659,-41.3408 519.59789,-68.3051 510.35819,29.6853 "
-                       id="polygon97"
-                       style="fill:url(#linear-gradient-52)" />
-                    <polygon
-                       class="cls-60"
-                       points="510.35819,29.6853 545.76659,-41.3408 627.29538,-51.0477 "
-                       id="polygon98"
-                       style="fill:url(#linear-gradient-53)" />
-                  </g>
-                </g>
-                <g
-                   id="g104">
-                  <ellipse
-                     class="cls-13"
-                     cx="652.4549"
-                     cy="-2.11695"
-                     rx="140.73141"
-                     ry="81.802048"
-                     transform="rotate(-65.63285,652.45485,-2.1169216)"
-                     id="ellipse99"
-                     style="fill:url(#radial-gradient-30)" />
-                  <g
-                     id="g103">
+                     id="g73">
                     <ellipse
-                       class="cls-1"
-                       cx="679.33905"
-                       cy="22.82135"
-                       rx="81.802071"
-                       ry="140.73138"
-                       transform="rotate(-89.77727,679.33905,22.821357)"
-                       id="ellipse100"
-                       style="fill:url(#radial-gradient-31)" />
+                       class="cls-22"
+                       cx="176.5244"
+                       cy="2.88835"
+                       rx="185.83539"
+                       ry="108.01936"
+                       transform="rotate(-54.86389,176.52439,2.8883545)"
+                       id="ellipse69"
+                       style="fill:url(#radial-gradient-16)" />
+                    <ellipse
+                       class="cls-54"
+                       cx="172.5244"
+                       cy="9.5549898"
+                       rx="185.83536"
+                       ry="108.01933"
+                       transform="rotate(-54.86386,172.52438,9.5550009)"
+                       id="ellipse70"
+                       style="fill:url(#radial-gradient-17)" />
                     <g
-                       id="g102">
+                       id="g72">
                       <polygon
-                         class="cls-39"
-                         points="662.02058,-1.2952 684.36768,-97.7454 583.72658,55.7411 "
-                         id="polygon100"
-                         style="fill:url(#linear-gradient-54)" />
+                         class="cls-44"
+                         points="137.3215,3.4148 49.7714,-93.6776 139.9099,131.3003 "
+                         id="polygon70"
+                         style="fill:url(#linear-gradient-32)" />
                       <polygon
-                         class="cls-40"
-                         points="583.72658,55.7411 662.02058,-1.2952 742.12768,43.927 "
-                         id="polygon101"
-                         style="fill:url(#linear-gradient-55)" />
+                         class="cls-7"
+                         points="139.9099,131.3003 137.3215,3.4148 246.83189,-49.1502 "
+                         id="polygon71"
+                         style="fill:url(#linear-gradient-33)" />
                       <polygon
-                         class="cls-80"
-                         points="684.36768,-97.7454 742.12768,43.927 662.02058,-1.2952 "
-                         id="polygon102"
-                         style="fill:url(#linear-gradient-56)" />
+                         class="cls-27"
+                         points="49.7714,-93.6776 246.83189,-49.1502 137.3215,3.4148 "
+                         id="polygon72"
+                         style="fill:url(#linear-gradient-34)" />
+                    </g>
+                  </g>
+                </g>
+                <ellipse
+                   class="cls-83"
+                   cx="597.11432"
+                   cy="446.30811"
+                   rx="74.647697"
+                   ry="67.26281"
+                   transform="rotate(-30.00126,597.11423,446.30807)"
+                   id="ellipse74"
+                   style="fill:url(#radial-gradient-18)" />
+                <g
+                   id="g75">
+                  <polygon
+                     class="cls-41"
+                     points="622.71828,537.9966 694.33018,544.7517 597.11428,438.6018 "
+                     id="polygon74"
+                     style="fill:url(#linear-gradient-35)" />
+                  <polygon
+                     class="cls-61"
+                     points="597.11428,438.6018 622.71828,537.9966 544.73819,566.6635 "
+                     id="polygon75"
+                     style="fill:url(#linear-gradient-36)" />
+                </g>
+                <g
+                   id="g79">
+                  <ellipse
+                     class="cls-56"
+                     cx="728.26886"
+                     cy="373.44186"
+                     rx="90.463692"
+                     ry="81.514183"
+                     transform="rotate(-63.71942,728.26888,373.44185)"
+                     id="ellipse75"
+                     style="fill:url(#radial-gradient-19)" />
+                  <g
+                     id="g78">
+                    <polygon
+                       class="cls-87"
+                       points="711.816,297.5389 668.23278,290.4813 728.26888,389.3283 "
+                       id="polygon76"
+                       style="fill:url(#linear-gradient-37)" />
+                    <polygon
+                       class="cls-3"
+                       points="728.26888,389.3283 711.816,297.5389 781.85438,231.1927 "
+                       id="polygon77"
+                       style="fill:url(#linear-gradient-38)" />
+                    <polygon
+                       class="cls-53"
+                       points="668.23278,290.4813 781.85438,231.1927 711.816,297.5389 "
+                       id="polygon78"
+                       style="fill:url(#linear-gradient-39)" />
+                  </g>
+                </g>
+                <g
+                   id="g82">
+                  <ellipse
+                     class="cls-20"
+                     cx="554.14899"
+                     cy="401.0455"
+                     rx="67.114601"
+                     ry="60.474918"
+                     transform="rotate(-4.36384,554.1489,401.04546)"
+                     id="ellipse79"
+                     style="fill:url(#radial-gradient-20)" />
+                  <g
+                     id="g81">
+                    <polygon
+                       class="cls-30"
+                       points="568.53729,318.6525 513.11859,285.3193 550.62559,409.1791 "
+                       id="polygon79"
+                       style="fill:url(#linear-gradient-40)" />
+                    <polygon
+                       class="cls-28"
+                       points="550.62559,409.1791 568.53729,318.6525 642.89728,325.751 "
+                       id="polygon80"
+                       style="fill:url(#linear-gradient-41)" />
+                    <polygon
+                       class="cls-15"
+                       points="513.11859,285.3193 642.89728,325.751 568.53729,318.6525 "
+                       id="polygon81"
+                       style="fill:url(#linear-gradient-42)" />
+                  </g>
+                </g>
+                <g
+                   id="g88">
+                  <ellipse
+                     class="cls-43"
+                     cx="723.0415"
+                     cy="181.90527"
+                     rx="83.057899"
+                     ry="47.014721"
+                     transform="rotate(-25.80369,723.04141,181.90526)"
+                     id="ellipse82"
+                     style="fill:url(#radial-gradient-21)" />
+                  <ellipse
+                     class="cls-16"
+                     cx="752.07544"
+                     cy="171.22705"
+                     rx="83.057961"
+                     ry="47.014641"
+                     transform="rotate(-25.80367,752.07535,171.22705)"
+                     id="ellipse83"
+                     style="fill:url(#radial-gradient-22)" />
+                  <ellipse
+                     class="cls-85"
+                     cx="707.59436"
+                     cy="177.03481"
+                     rx="83.05793"
+                     ry="47.014671"
+                     transform="rotate(-81.60323,707.59438,177.0348)"
+                     id="ellipse84"
+                     style="fill:url(#radial-gradient-23)" />
+                  <ellipse
+                     class="cls-57"
+                     cx="709.77368"
+                     cy="136.18269"
+                     rx="83.057922"
+                     ry="47.014671"
+                     transform="rotate(-89.6764,709.77368,136.18272)"
+                     id="ellipse85"
+                     style="fill:url(#radial-gradient-24)" />
+                  <g
+                     id="g87">
+                    <polygon
+                       class="cls-35"
+                       points="737.65848,132.0276 704.63108,90.8263 698.34448,196.3079 "
+                       id="polygon85"
+                       style="fill:url(#linear-gradient-43)" />
+                    <polygon
+                       class="cls-76"
+                       points="698.34448,196.3079 737.65848,132.0276 792.61208,158.488 "
+                       id="polygon86"
+                       style="fill:url(#linear-gradient-44)" />
+                    <polygon
+                       class="cls-50"
+                       points="704.63108,90.8263 792.61208,158.488 737.65848,132.0276 "
+                       id="polygon87"
+                       style="fill:url(#linear-gradient-45)" />
+                  </g>
+                </g>
+              </g>
+              <g
+                 class="cls-94"
+                 clip-path="url(#clippath-1)"
+                 id="g106">
+                <g
+                   id="g105">
+                  <ellipse
+                     class="cls-34"
+                     cx="504.25803"
+                     cy="90.126617"
+                     rx="140.60359"
+                     ry="156.04079"
+                     transform="rotate(-12.51956,504.25813,90.126624)"
+                     id="ellipse89"
+                     style="fill:url(#radial-gradient-25)" />
+                  <ellipse
+                     class="cls-2"
+                     cx="456.92474"
+                     cy="14.12662"
+                     rx="140.60359"
+                     ry="156.04079"
+                     transform="rotate(-12.51939,456.9247,14.126604)"
+                     id="ellipse90"
+                     style="fill:url(#radial-gradient-26)" />
+                  <ellipse
+                     class="cls-51"
+                     cx="531.59137"
+                     cy="45.126621"
+                     rx="140.60364"
+                     ry="156.04079"
+                     transform="rotate(-12.51961,531.59146,45.126636)"
+                     id="ellipse91"
+                     style="fill:url(#radial-gradient-27)" />
+                  <g
+                     id="g93">
+                    <polygon
+                       class="cls-78"
+                       points="490.45889,48.8617 385.99639,-30.5801 514.06559,174.6311 "
+                       id="polygon91"
+                       style="fill:url(#linear-gradient-46)" />
+                    <polygon
+                       class="cls-69"
+                       points="514.06559,174.6311 490.45889,48.8617 589.84258,19.6685 "
+                       id="polygon92"
+                       style="fill:url(#linear-gradient-47)" />
+                    <polygon
+                       class="cls-62"
+                       points="385.99639,-30.5801 589.84258,19.6685 490.45889,48.8617 "
+                       id="polygon93"
+                       style="fill:url(#linear-gradient-48)" />
+                  </g>
+                  <g
+                     id="g97">
+                    <ellipse
+                       class="cls-14"
+                       cx="527.40082"
+                       cy="94.200752"
+                       rx="46.278728"
+                       ry="51.359772"
+                       transform="rotate(-12.51973,527.40059,94.200732)"
+                       id="ellipse93"
+                       style="fill:url(#radial-gradient-28)" />
+                    <g
+                       id="g96">
+                      <polygon
+                         class="cls-65"
+                         points="591.37688,96.1554 610.611,50.5562 520.857,92.4147 "
+                         id="polygon94"
+                         style="fill:url(#linear-gradient-49)" />
+                      <polygon
+                         class="cls-42"
+                         points="520.857,92.4147 591.37688,96.1554 594.07228,153.2549 "
+                         id="polygon95"
+                         style="fill:url(#linear-gradient-50)" />
+                      <polygon
+                         class="cls-73"
+                         points="610.611,50.5562 594.07228,153.2549 591.37688,96.1554 "
+                         id="polygon96"
+                         style="fill:url(#linear-gradient-51)" />
+                    </g>
+                  </g>
+                  <g
+                     id="g99">
+                    <ellipse
+                       class="cls-88"
+                       cx="518.4306"
+                       cy="18.839451"
+                       rx="76.989754"
+                       ry="69.373077"
+                       transform="rotate(-27.05996,518.43058,18.839465)"
+                       id="ellipse97"
+                       style="fill:url(#radial-gradient-29)" />
+                    <g
+                       id="g98">
+                      <polygon
+                         class="cls-48"
+                         points="545.76659,-41.3408 519.59789,-68.3051 510.35819,29.6853 "
+                         id="polygon97"
+                         style="fill:url(#linear-gradient-52)" />
+                      <polygon
+                         class="cls-60"
+                         points="510.35819,29.6853 545.76659,-41.3408 627.29538,-51.0477 "
+                         id="polygon98"
+                         style="fill:url(#linear-gradient-53)" />
+                    </g>
+                  </g>
+                  <g
+                     id="g104">
+                    <ellipse
+                       class="cls-13"
+                       cx="652.4549"
+                       cy="-2.11695"
+                       rx="140.73141"
+                       ry="81.802048"
+                       transform="rotate(-65.63285,652.45485,-2.1169216)"
+                       id="ellipse99"
+                       style="fill:url(#radial-gradient-30)" />
+                    <g
+                       id="g103">
+                      <ellipse
+                         class="cls-1"
+                         cx="679.33905"
+                         cy="22.82135"
+                         rx="81.802071"
+                         ry="140.73138"
+                         transform="rotate(-89.77727,679.33905,22.821357)"
+                         id="ellipse100"
+                         style="fill:url(#radial-gradient-31)" />
+                      <g
+                         id="g102">
+                        <polygon
+                           class="cls-39"
+                           points="662.02058,-1.2952 684.36768,-97.7454 583.72658,55.7411 "
+                           id="polygon100"
+                           style="fill:url(#linear-gradient-54)" />
+                        <polygon
+                           class="cls-40"
+                           points="583.72658,55.7411 662.02058,-1.2952 742.12768,43.927 "
+                           id="polygon101"
+                           style="fill:url(#linear-gradient-55)" />
+                        <polygon
+                           class="cls-80"
+                           points="684.36768,-97.7454 742.12768,43.927 662.02058,-1.2952 "
+                           id="polygon102"
+                           style="fill:url(#linear-gradient-56)" />
+                      </g>
                     </g>
                   </g>
                 </g>
               </g>
             </g>
-          </g>
-          <text
-             class="cls-92"
-             id="text115"
-             x="242.22565"
-             y="257.77563"
-             style="font-size:35.9115px;stroke-width:1;fill:#00106a"><tspan
-               sodipodi:role="line"
-               id="tspan119"
+            <text
+               class="cls-92"
+               id="text115"
                x="242.22565"
                y="257.77563"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.9115px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1">MATHEMATICS</tspan><tspan
-               sodipodi:role="line"
-               id="tspan120"
-               x="242.22565"
-               y="302.66501"
-               style="stroke-width:1" /></text>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1323px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#bababa;stroke:none;stroke-width:0.377953;stroke-linejoin:bevel;paint-order:fill markers stroke;fill-opacity:1"
-             x="351.43561"
-             y="292.37277"
-             id="text121"
-             transform="scale(1.0022447,0.99776033)"><tspan
-               sodipodi:role="line"
-               id="tspan121"
+               style="font-size:35.9115px;stroke-width:1;fill:#00106a"><tspan
+                 sodipodi:role="line"
+                 id="tspan119"
+                 x="242.22565"
+                 y="257.77563"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.9115px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1">MATHEMATICS</tspan><tspan
+                 sodipodi:role="line"
+                 id="tspan120"
+                 x="242.22565"
+                 y="302.66501"
+                 style="stroke-width:1" /></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1323px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#bababa;stroke:none;stroke-width:0.377953;stroke-linejoin:bevel;paint-order:fill markers stroke;fill-opacity:1"
                x="351.43561"
                y="292.37277"
-               style="stroke-width:0.377953;fill:#bababa;fill-opacity:1;stroke:none">PMP</tspan></text>
+               id="text121"
+               transform="scale(1.0022447,0.99776033)"><tspan
+                 sodipodi:role="line"
+                 id="tspan121"
+                 x="351.43561"
+                 y="292.37277"
+                 style="stroke-width:0.377953;fill:#bababa;fill-opacity:1;stroke:none">PMP</tspan></text>
+          </g>
         </g>
       </g>
     </g>
